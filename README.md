@@ -13,6 +13,7 @@ Create `328P-SSOP20.json``.
       "core": "lgt8f",
       "extra_flags": "-DARDUINO_ARCH_AVR -DARDUINO_AVR_LARDU_328P -DAVR_LARDU_328E,
       "f_cpu": "32000000L",
+      "clock_source": 1,
       "mcu": "atmega328p",
       "variant": "lgt8fx8ps20"
     },
